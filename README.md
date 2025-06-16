@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a)
 
-- 👩🏽‍💻 Analise e Desenvolvimento de Sistema
+- 👩🏽‍💻 Analista de TI | Infraestrutura | Suporte Técnico | Iniciando em Back-end (Python/Node.js)
 
 <div>
 <a href
