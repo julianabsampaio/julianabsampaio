@@ -1,6 +1,6 @@
 ### Olá! Seja bem-vindo(a)
 
-- 👩🏽‍💻 Analista de TI | Infraestrutura | Suporte Técnico | Iniciando em Back-end (Python/Node.js)
+- 👩🏽‍💻 Analista de TI | Infraestrutura | Suporte Técnico | Back-end
 
 <div>
 <a href
