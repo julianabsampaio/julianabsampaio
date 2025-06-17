@@ -10,7 +10,7 @@
   <img align="center" alt="Juli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Juli-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/691453011989495808/1076198039871553668/giphy.webp">
+  <img align="right" alt="Juli-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/10/6e/4b/106e4bc92f0c3e4c4c397e072fa8508f.png">
 </div>
   
   ##
